@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo !! - Commit para GitHub Actions 10:10 PM" /></h1>
+                <h1><h:outputText value="Hola Mundo !! - Commit para GitHub Actions 11:49 PM" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="All Products" id="linkProds" />
                 <br/>
